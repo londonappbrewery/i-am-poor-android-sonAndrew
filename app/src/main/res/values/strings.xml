@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="coal_image_description">Coal</string>
+    <string name="title_1">Why am I poor?</string>
+    <string name="copy_1">I am poor because instead of the government helping me after COVID-19 struck and I lost my job; they gave my hard earned tax money to the wealthy and greedy corporations.</string>
 </resources>
